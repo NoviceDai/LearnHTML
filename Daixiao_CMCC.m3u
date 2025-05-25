@@ -2,15 +2,28 @@
 
  
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.v1.mk/logo/CCTV5+.png" group-title="体育",CCTV5+
-http://itv.iptv1688.top:2016/itv.php?id=CCTV5p
+http://221.236.10.235:14030/bptv/10000100000000050000000003870759.m3u8
+http://114.32.59.86:7000/bptv/10000100000000050000000003870759.m3u8
+http://c3tv.woofoo.cn/bptv/10000100000000050000000003870759.m3u8
 http://111.43.126.240:9003/hls/18/index.m3u8
 http://1.24.190.122:1080/hls/16/index.m3u8
 http://183.215.134.239:19901/tsfile/live/0005_1.m3u8
 http://60.214.104.110:352/tsfile/live/0016_1.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="体育",CCTV5 
+http://sport.pendy.dpdns.org/migu/641886773?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/CCTV16.png" group-title="体育",CCTV16
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="体育",CCTV5 
+http://221.236.10.235:14030/bptv/10000100000000050000000003870748.m3u8
+http://114.32.59.86:7000/bptv/10000100000000050000000003870748.m3u8
+http://c3tv.woofoo.cn/bptv/10000100000000050000000003870748.m3u8
+http://sport.pendy.dpdns.org/migu/641886683?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
  
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/CCTV16.png" group-title="体育",CCTV16
+http://221.236.10.234:14030/bptv/10000100000000050000000004972604.m3u8
+http://221.236.10.234:14030/bptv/10000100000000050000000004972604.m3u8
+http://221.236.10.235:14030/bptv/10000100000000050000000004972604.m3u8
+http://114.32.59.86:7000/bptv/10000100000000050000000004972604.m3u8
+http://c3tv.woofoo.cn/bptv/10000100000000050000000004972604.m3u8
+http://sport.pendy.dpdns.org/migu/673168256?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
  
 #EXTINF:-1 tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNNInternationalEurope.us" group-title="英语",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
