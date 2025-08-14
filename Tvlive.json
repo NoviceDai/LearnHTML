@@ -1,0 +1,24 @@
+{
+    "lives": [
+        {
+            "name": "Aktv",
+            "type": 0,
+            "url": "https://aktv.space/live.m3u",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+
+        {
+            "name": "ChinaIPTV",
+            "type": 0,
+            "url": "https://fjcm.iptv.darwinchow.com/sub/02Rd15wrZCbffOxNKXqMs1CTaDrgtV",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        } 
+
+    ]
+}
